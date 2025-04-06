@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "cppStandard",
-        "cstring": "cppStandard",
-        "internal_bit": "cppStandard",
-        "segtree": "cpp"
-    }
-}
